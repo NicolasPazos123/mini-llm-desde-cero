@@ -1,0 +1,13 @@
+# Entorno virtual (pesado y se recrea con requirements.txt)
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Basura de macOS
+.DS_Store
+
+# Datos y modelos entrenados (pesados, no van a Git)
+data/
+*.pt
