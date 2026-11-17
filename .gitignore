@@ -11,3 +11,4 @@ __pycache__/
 # Datos y modelos entrenados (pesados, no van a Git)
 data/
 *.pt
+prueba/
