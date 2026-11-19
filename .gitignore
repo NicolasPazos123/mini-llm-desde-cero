@@ -12,3 +12,4 @@ __pycache__/
 data/
 *.pt
 prueba/
+.ipynb_checkpoints/
